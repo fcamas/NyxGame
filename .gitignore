@@ -1,0 +1,48 @@
+Xcode
+
+.DS_Store build/ DerivedData/ .xcuserstate .xccheckout
+
+Xcode user data
+
+.xcuserdatad/ .xcworkspace/xcuserdata/
+
+Swift Package Manager
+
+.build/ Packages/ Package.resolved
+
+CocoaPods
+
+Pods/ Podfile.lock
+
+Carthage
+
+Carthage/Build/
+
+Fastlane
+
+fastlane/report.xml fastlane/Preview.html fastlane/screenshots
+fastlane/test_output
+
+Archives
+
+*.xcarchive
+
+Playgrounds
+
+timeline.xctimeline playground.xcworkspace
+
+Logs
+
+*.log
+
+macOS
+
+.DS_Store
+
+Code coverage
+
+.gcda .gcno *.profraw
+
+Artifacts
+
+.hmap .ipa .dSYM.zip .dSYM
